@@ -8,6 +8,7 @@ export default defineNuxtConfig({
     },
     devtools: { enabled: true },
     site: {
+        url: 'https://docs.tapix.dev',
         name: 'Tapix Docs',
     },
     app: {
