@@ -1,11 +1,9 @@
 <template>
-    <UButton
+    <NuxtLink
         to="https://tapix.dev"
         target="_blank"
-        variant="outline"
-        color="neutral"
-        size="sm"
+        class="text-sm text-[var(--ui-text-muted)] hover:text-[var(--ui-text)] transition-colors"
     >
         tapix.dev
-    </UButton>
+    </NuxtLink>
 </template>
