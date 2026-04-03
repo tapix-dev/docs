@@ -4,6 +4,9 @@ export default defineAppConfig({
         title: 'Tapix Docs',
         description: 'Documentation for Tapix — the CSV import wizard for Laravel and Filament.',
     },
+    socials: {
+        tapix: 'https://tapix.dev',
+    },
     ui: {
         colors: {
             primary: 'green',

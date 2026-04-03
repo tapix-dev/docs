@@ -1,0 +1,11 @@
+<template>
+    <UButton
+        to="https://tapix.dev"
+        target="_blank"
+        variant="outline"
+        color="neutral"
+        size="sm"
+    >
+        tapix.dev
+    </UButton>
+</template>

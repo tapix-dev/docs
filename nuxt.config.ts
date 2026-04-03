@@ -36,6 +36,9 @@ export default defineNuxtConfig({
             },
         },
     },
+    routeRules: {
+        '/': { redirect: '/getting-started/installation' },
+    },
     nitro: {
         preset: 'github_pages',
     },
