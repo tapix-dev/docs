@@ -35,3 +35,7 @@ logs
 #VSC
 .history
 .wrangler
+
+# Playwright MCP
+.playwright-mcp
+*.png
